@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "name": "Apple",
+      "category": "Fruits",
+      "date": "2022-01-16T23:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 4,
+      "comment": "better than a banana",
+      "id": 1
+    },
+    {
+      "name": "Banana",
+      "category": "Fruits",
+      "date": "2022-01-16T23:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 2,
+      "comment": "Better than an apple",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
